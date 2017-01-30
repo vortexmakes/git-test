@@ -9,5 +9,5 @@
 void
 rkh_fwk_init(void)
 {
-	printf("Hello");
+	printf("Hello lolo");
 }
