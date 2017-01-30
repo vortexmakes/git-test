@@ -11,4 +11,5 @@ rkh_fwk_init(void)
 {
 	printf("Hello toto and lolo and rolo");
 	printf("how are you toto?");
+	printf("how are you toto?");
 }
